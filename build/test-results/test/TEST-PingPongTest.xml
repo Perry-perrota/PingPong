@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingPongTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-06-11T09:58:08" hostname="obaradev-VirtualBox" time="0.034">
+  <properties/>
+  <testcase name="runPingPong_countUpToGivenNumber_ArrayList" classname="PingPongTest" time="0.002"/>
+  <testcase name="runPingPong_replacesMultiplesof5" classname="PingPongTest" time="0.003"/>
+  <testcase name="runPingPong_replaceMultiplesOf3_ArrayList" classname="PingPongTest" time="0.008"/>
+  <testcase name="runPingPong_countUpToOne_ArrayList" classname="PingPongTest" time="0.003"/>
+  <testcase name="runPingPong_replacesMultiplesoOf3And5_ArrayList" classname="PingPongTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
